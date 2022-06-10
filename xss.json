@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Tziampazis/swagger_attack/main/exploit.yaml?token=GHSAT0AAAAAABUX2RLGMOVA6JU7LV6RZTH2YVDIVEA",
+    "url": "https://raw.githubusercontent.com/Tziampazis/swagger_attack/main/exploit.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Tziampazis/swagger_attack/main/exploit.yaml?token=GHSAT0AAAAAABUX2RLGMOVA6JU7LV6RZTH2YVDIVEA",
+            "url": "https://raw.githubusercontent.com/Tziampazis/swagger_attack/main/exploit.yaml",
             "name": "Foo"
         }
     ]
